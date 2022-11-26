@@ -1,0 +1,11 @@
+#editor specific files
+.vscode
+.idea
+
+#cache files
+__pycache__
+tempCodeRunnerFile.py
+
+# models
+models/s2v_old
+models/._s2v_old
