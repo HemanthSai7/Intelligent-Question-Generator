@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas 
+seaborn
+scikit-learn
+PyPDF2
+fitz
+transformers
+spacy
+keybert
+sense2vec
